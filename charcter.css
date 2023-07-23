@@ -19,6 +19,7 @@ p {
 
 /* ---------- */
 .main .text {
+  margin-top: 50px;
   font-family: "KBO-Dia-Gothic_bold";
   color: white;
   font-size: 50px;
